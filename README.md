@@ -1,1 +1,2 @@
 # odin-recipes
+this project will consists of a list of recipes by using HTML and CSS language. lists will be composed by <ul></ul> and <li></li>. absolute and relative links will be composed of anchor elements; <a href="">.
